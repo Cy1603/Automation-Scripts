@@ -7,3 +7,7 @@ How it works:
 
 How to use:
 1. Drag and drop a.log into the exe. 
+
+Troubleshoot:
+1. Run the python script with a.log as argument in the cmd and debug from there. 
+2. Once debugged and modified the python file, then use auto-py-to-exe to convert it to an exe file.
