@@ -1,4 +1,5 @@
 A simple python script that reads the URLs in the domainList.csv and automatically launch multiple DNSTwister chrome tabs which queries the said URLs.
+
 It is an automation script useful for Threat Intelligence by allowing user to check multiple URLs in DNSTwister without manually opening tabs and searching for the URLs.
 
 How to use:
