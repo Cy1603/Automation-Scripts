@@ -1,4 +1,4 @@
-A simple scripts that reads the URLs in the domainList.csv and launch multiple DNSTwister chrome tabs which queries the said URLs.
+A simple python script that reads the URLs in the domainList.csv and launch multiple DNSTwister chrome tabs which queries the said URLs.
 
 How to use:
 1. Add URLs into domainList.csv
