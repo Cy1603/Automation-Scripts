@@ -1,4 +1,5 @@
 A python script which checks for emails in a log file and then check their existence in the Outlook Address Book.
+
 This is useful for Threat Intelligence as it allows user to check through cluttered log files for emails within a company's Outlook Address Book. Can be adapted to filter phishing emails or affected emails.
 
 How it works:
