@@ -1,4 +1,6 @@
-A python script that scrapes the MD5 hashes from tweets based on a certain hashtag query. This is useful for threat intelligence to obtain variant of hashes for malware samples, such as from APT (Advanced Persistent Threat).
+A python script that scrapes the MD5 hashes from tweets based on a certain hashtag query.
+This is useful for Threat Intelligence to obtain variant of hashes for malware samples, such as from APT (Advanced Persistent Threat), without manually looking through every single tweet.
+It can be adapted to search for user tweets instead of hashtag tweets, as well as other hash types, and for other twitter automation.
 
 How to use:
 1. Launch the python script.
